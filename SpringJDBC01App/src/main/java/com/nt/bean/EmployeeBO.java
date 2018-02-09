@@ -113,7 +113,7 @@ public class EmployeeBO {
 	 */
 	@Override
 	public String toString() {
-		return "EmployeeBO [empno=" + empno + ", ename=" + ename + ", job=" + job + ", mgr=" + mgr + ", hiredate="
+		return "EmployeeBO [emp=" + empno + ", ename=" + ename + ", job=" + job + ", mgr=" + mgr + ", hiredate="
 				+ hiredate + ", sal=" + sal + ", comm=" + comm + ", deptno=" + deptno + "]";
 	}
 	
